@@ -1,1 +1,2 @@
 This is sample text file in Github
+This message is added from local machine
